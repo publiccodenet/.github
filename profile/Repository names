@@ -16,4 +16,4 @@ codebasestewards: An issue-only repository, containing the issues codebase stewa
 
 bumperscripter: Script to generate video podcast bumper animations using the Processing framework. Makes it easy to create animations where only a few text strings change every episode (like guest names etc.).
 
-playground: A repository for our staff to learn, play and experiment with git. Not meant for reuse.
+playground: A repository for our staff to learn, play and experiment with git. Not intended for reuse.
