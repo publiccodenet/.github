@@ -1,0 +1,19 @@
+blog: Home to the Blog for Public Code and where blog posts are planned and collectively written.
+
+standard: The Standard for Public Code - a model for public organizations to build their own open source solutions to enable successful future reuse by similar public organizations in other places.
+
+jitsi-community: A tool that allows users to sign up to a Jitsi instance that is not open to everyone, using a web UI so that they can start sessions by themselves.
+
+illustrations: A collection of illustrations meant to be reused in the communications of the Foundation for Public Code.
+
+publiccode.net: The website of the Foundation for Public Code that is the most public facing and the primary place for people to learn about the organization.
+
+governance-game: Card game used to learn what needs of governance organizations collaborating on public code codebases has.
+
+projects: Home to a list of useful resources developed by the Foundation for Public Code.
+
+codebasestewards: An issue-only repository, containing the issues codebase stewards are actively working on, that does not ft in other repositories. These are used on the weekly planning board.
+
+bumperscripter: Script to generate video podcast bumper animations using the Processing framework. Makes it easy to create animations where only a few text strings change every episode (like guest names etc.).
+
+playground: A repository for our staff to learn, play and experiment with git. Not meant for reuse.
