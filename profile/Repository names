@@ -12,7 +12,7 @@ governance-game: A card game that helps organizations and communities explore go
 
 projects: Home to a list of useful resources developed by the Foundation for Public Code.
 
-codebasestewards: An issue-only repository, containing the issues codebase stewards are actively working on, that does not ft in other repositories. These are used on the weekly planning board.
+codebasestewards: An issue-only repository with issues the codebase stewards are actively working on, but that do not ft in other repositories. These are used on the weekly planning board.
 
 bumperscripter: Script to generate video podcast bumper animations using the Processing framework. Makes it easy to create animations where only a few text strings change every episode (like guest names etc.).
 
