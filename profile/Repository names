@@ -14,6 +14,6 @@ projects: Home to a list of useful resources developed by the Foundation for Pub
 
 codebasestewards: An issue-only repository with issues the codebase stewards are actively working on, but that do not ft in other repositories. These are used on the weekly planning board.
 
-bumperscripter: Script to generate video podcast bumper animations using the Processing framework. Makes it easy to create animations where only a few text strings change every episode (like guest names etc.).
+bumperscripter: Script to easily create bumper animations for live video streams. It enables users to easily edit changing text strings (such as guest names) through a simple templating setup. It uses the Processing framework.
 
 playground: A repository for our staff to learn, play and experiment with git. Not intended for reuse.
