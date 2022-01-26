@@ -2,7 +2,7 @@ blog: Home to the Blog for Public Code, where blog posts are planned and collect
 
 standard: The Standard for Public Code - a model for public organizations to build their own open source solutions to enable successful future reuse by similar public organizations in other places.
 
-jitsi-community: A tool that allows users to sign up to a Jitsi instance that is not open to everyone, using a web UI so that they can start sessions by themselves.
+jitsi-community: A tool that allows users to sign up, create and run video calls on a self-hosted Jitsi instance. We use this to allow our community members to run calls on our infrastructure.
 
 illustrations: A collection of illustrations to support the communications of the Foundation for Public Code.
 
